@@ -1,0 +1,76 @@
+﻿/* Required to have full-screen RadSplitter */
+html, body, form 
+{
+	height:100%;
+	margin:0;
+	padding:0;
+/*	overflow:hidden; */
+	font: normal 14px/1.5em "Segoe UI", Arial, sans-serif;
+}
+form
+{
+	cursor: default; 
+}
+
+/* <header> */
+
+.breadcrumb {
+	font: 100% Arial, Helvetica, Georgia, "Times New Roman", Times, serif;
+	color: white;
+	background-color: transparent;
+	font-weight:bold;
+}
+
+#divheader{
+    font-size:12px;
+    width:100%;
+    height:49px;
+    background-image: url('../images/header-colds.png');
+    background-position:0 294px;
+/* 0 98  196  294  392 coldonly> 490 */    
+/* red blue gray dkgray blue coldonly> bluegreen */
+}
+/*  purposely put here in master.css to make it easy to match login bg
+    with the page header bg.  see background-position below. */
+
+.LoginHeader{   
+    background-image:url(../images/header-colds.png);
+    background-position:0 -304px; /* add 20px to #header.background-position */
+    color:White; 
+    padding:7px; 
+    font-size:0.9em;
+    font-weight:bold;
+}
+
+.logout{
+    color:White;
+    font-family:Arial;
+    font-size:11px;
+}
+/* Main Content */
+
+.lilBlueButton{
+    color:Blue;
+    font-weight:normal;
+    font-size: 11px;
+}
+
+#content 
+{
+	margin-top:1em;
+	margin-left: 12em;
+	margin-right: 2em;
+}
+h1 {
+	font: 150% Arial, Helvetica, Georgia, "Times New Roman", Times, serif;
+}
+#content p {
+	font-size: 80%;
+	line-height: 1.6em; 
+}
+
+#content ul {
+	font-size: 80%;
+	line-height: 1.6em; 
+}
+

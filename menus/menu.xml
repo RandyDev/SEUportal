@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items Text="">
+    <Item Text="Home" Url="~/default.aspx" />
+    <Item Text="Employee Tools" Url="">
+        <Item Text="My Work" Url="~/Employees/MyWork.aspx" />
+        <Item Text="My Profile" Url="~/Employees/editProfile.aspx" />
+    </Item>
+    <Item Text="Teaching Series" Url="">
+        <Item Text="Forklift Safety" Url="~/video/forklift/forklift.html" />
+        <Item Text="Site Safety" Url="~/video/safety/safety.html" />
+        <Item Text="Future Use" Url="" />
+    </Item>
+    <Item Text="Help/Email" Url="">
+        <Item Text="Support Website" Url="http://Support.Div-Log.com" />
+        <Item Text="Support Login" Url="http://Support.Div-Log.com/Login.aspx" />
+        <Item Text="Web Email(new window)" Url="https://mail.div-log.com/owa" />
+    </Item>
+</Items>

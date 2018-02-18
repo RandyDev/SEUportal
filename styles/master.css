@@ -1,0 +1,50 @@
+﻿/* MAIN BODY STYLES ******************/
+body {
+ 	font-family:"Calibri", "Tahoma", "Arial";
+    margin:0;
+    background-color:#F6F6F6;
+}
+#body_wrap {
+
+    background-color:White;
+    border:1px solid gray;
+	margin:0 auto;	
+    background-color:White;
+	min-height:100%;
+	height: auto !important;
+	height: 100%;	
+}
+/* HEADER STYLES ******************/
+#header{
+    font-size:12px;
+    width:100%;
+    height:49px;
+    background-image: url(../images/header-colds.png);
+    background-position:0 -490px;
+/* 0 98  196  294  392 coldonly> 490 */    
+/* red blue gray dkgray blue coldonly> bluegreen */
+}
+/*  purposely put here in master.css to make it easy to match login bg
+    with the page header bg.  see background-position below. */
+.LoginHeader{   
+    background-image:url(../images/header-colds.png);
+    background-position:0 -510px; /* add 20px to #header.background-position */
+    color:White; 
+    padding:7px; 
+    font-size:0.9em;
+    font-weight:bold;
+}
+/* CONTENT AREA STYLES *****************************/
+.content_wrap {
+    clear:both;
+    padding:20px;
+    margin:auto auto;
+    overflow:auto;
+}
+/* FOOTER STYLES **********************************/
+#footer {
+    text-align:center;
+    font-size:12px;
+    width:975px;
+    margin:auto auto ;
+}

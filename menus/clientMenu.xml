@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items Text="">
+    <Item Text="Home" Url="~/default.aspx" />
+    <Item Text="My Profile" Url="~/ClientSvcs/EditClientProfile.aspx" />
+    <Item Text="Reports" Url="">
+        <Item Text="Current Dock Activity" Url="~/Reports/DockActivity.aspx" />
+        <Item Text="Load Photos" Url="~/ClientSvcs/FreightIssuePictures.aspx" />
+		<Item Text="_______________________" url=""/>
+        <Item Text="Production Reports" Url="">
+        <Item Text="Daily / Weekly" Url="~/Reports/Reports.aspx?report=DailyWeekly" />
+		<Item Text="Driver Worked" Url="~/Reports/Reports.aspx?report=DriverWorked" />			
+        </Item>
+        <Item Text="Vendor Reports" url="">
+	    	<Item Text="Vendor Report" Url="~/Reports/Reports.aspx?report=VendorReport" />
+		    <Item Text="Vendor Summary" Url="~/Reports/Reports.aspx?report=VendorSummary" />
+        </Item>
+        <Item Text="Client Reports" url="">
+        	<Item Text="Additional Costs" Url="~/Reports/Reports.aspx?report=AdditionalCosts" />
+            <Item Text="Average Cost" Url="~/Reports/Reports.aspx?report=AverageCost" />
+            <Item Text="Bad Pallet Report" Url="~/Reports/Reports.aspx?report=BadPalletReport" />
+            <Item Text="Restack Pallet Report" Url="~/Reports/Reports.aspx?report=RestackPallets" />
+            <Item Text="PO Search" Url="~/Reports/Reports.aspx?report=POsearch" />
+            <Item Text="Loads List Detailed" Url="~/Reports/Reports.aspx?report=LoadsDetailed" />
+          <Item Text="Pallets and Pieces Graph" Url="~/Reports/Reports.aspx?report=PalletsPiecesGraph" />
+        </Item>
+		<Item Text="Time Tracking Reports" Url="">
+			<Item Text="Loads Over 2 Hours" Url="~/Reports/Reports.aspx?report=LoadsOverTwoHours" />
+			<Item Text="Travel Time" Url="~/Reports/Reports.aspx?report=TravelTime" />
+			<Item Text="On Time Delivery" Url="~/Reports/Reports.aspx?report=OnTimeDelivery" />
+			<Item Text="Loads Over 2 hours Late" Url="~/Reports/Reports.aspx?report=LoadsOverTwoHoursLate" />
+		</Item>
+        <Item Text="Business Reports" Url="">
+            <Item Text="Location Business Summary Gross" Url="~/Reports/Reports.aspx?report=BusinessSummary" />
+			<Item Text="Location Business Summary Net" Url="~/Reports/Reports.aspx?report=BusinessSummaryNet" />
+        </Item>
+    </Item>
+    <Item Text="Help/Email" Url="">
+        <Item Text="Support Website" Url="http://Support.Div-Log.com" />
+    </Item>
+</Items>

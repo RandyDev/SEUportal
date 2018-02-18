@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items Text="">
+    <Item Text="Home" Url="~/default.aspx" />
+    <Item Text="Reports" Url="">
+        <Item Text="Costs" Url="">
+            <Item Text="Additional Cost" Url="~/ClientSvcs/AdditionalCost.aspx" />
+            <Item Text="Average Cost" Url="~/ClientSvcs/AverageCost.aspx" />
+            <Item Text="Business Summary" Url="~/ClientSvcs/BusinessSummary.aspx" />
+        </Item>
+        <Item Text="Productivity" Url="">
+            <Item Text="Average Pallets and Pieces" Url="~/ClientSvcs/AvgPalletsPieces.aspx" />
+            <Item Text="Bad Pallets" Url="~/ClientSvcs/BadPallets.aspx" />
+            <Item Text="Loads Over 2 hours" Url="~/ClientSvcs/LoadsOverTwo.aspx" />
+            <Item Text="Pallets and Pieces per Man-Hour" Url="~/ClientSvcs/PalletsPiecesManHour.aspx" />
+            <Item Text="Restack Pallets" Url="~/ClientSvcs/RestackPallets.aspx" />
+        </Item>
+        <Item Text="Time Tracking" Url="">
+            <Item Text="Average Unload Time per Vendor" Url="~/ClientSvcs/AvgUnloadTimePerVendor.aspx" />
+            <Item Text="On-Time Delivery" Url="~/ClientSvcs/OntimeDeliver.aspx" />
+            <Item Text="Unload Time per Load" Url="~/ClientSvcs/UnloadTimePerLoad.aspx" />
+        </Item>
+        <Item Text="History" Url="">
+            <Item Text="Loads Detail" Url="~/ClientSvcs/LoadsDetails.aspx" />
+            <Item Text="Loads Summary" Url="~/ClientSvcs/LoadsSummary.aspx" />
+
+        </Item>
+        <Item Text="Current Dock Activity" Url="~/Reports/DockActivity.aspx" />
+        <Item Text="Future Use" Url="" />
+    </Item>
+    <Item Text="Tools" Url="">
+        <Item Text="Future Use" Url=""  Target=""/>
+        <Item Text="Future Use" Url="" />
+    </Item>
+    <Item Text="Help" Url="">
+        <Item Text="Future Use" Url="" />
+        <Item Text="Future Use" Url="" />
+        <Item Text="About ..." Url="" />
+    </Item>
+</Items>

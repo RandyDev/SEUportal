@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\DiversifiedLogistics.vbproj" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\AddEditAdditionalCompensation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\AddEditAdditionalCompensation.aspx" />
+  <event action="Analyze" type="Success" name="AddEditAdditionalCompensation.aspx" path="C:\Projects\diversifiedlogistics\Admin\AddEditAdditionalCompensation.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\AddEditTimePunche.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\AddEditTimePunche.aspx" />
+  <event action="Analyze" type="Success" name="AddEditTimePunche.aspx" path="C:\Projects\diversifiedlogistics\Admin\AddEditTimePunche.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\addVendor.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\addVendor.aspx" />
+  <event action="Analyze" type="Success" name="addVendor.aspx" path="C:\Projects\diversifiedlogistics\Admin\addVendor.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\BackhaulAdjustments.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\BackhaulAdjustments.aspx" />
+  <event action="Analyze" type="Success" name="BackhaulAdjustments.aspx" path="C:\Projects\diversifiedlogistics\Admin\BackhaulAdjustments.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\BackhaulInbound.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\BackhaulInbound.aspx" />
+  <event action="Analyze" type="Success" name="BackhaulInbound.aspx" path="C:\Projects\diversifiedlogistics\Admin\BackhaulInbound.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ChangeEmployment.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ChangeEmployment.aspx" />
+  <event action="Analyze" type="Success" name="ChangeEmployment.aspx" path="C:\Projects\diversifiedlogistics\Admin\ChangeEmployment.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ClearNoShowScheduledLoads.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ClearNoShowScheduledLoads.aspx" />
+  <event action="Analyze" type="Success" name="ClearNoShowScheduledLoads.aspx" path="C:\Projects\diversifiedlogistics\Admin\ClearNoShowScheduledLoads.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ClientUserAdmin.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ClientUserAdmin.aspx" />
+  <event action="Analyze" type="Success" name="ClientUserAdmin.aspx" path="C:\Projects\diversifiedlogistics\Admin\ClientUserAdmin.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\DepartmentsList.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\DepartmentsList.aspx" />
+  <event action="Analyze" type="Success" name="DepartmentsList.aspx" path="C:\Projects\diversifiedlogistics\Admin\DepartmentsList.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\DockMonitorBanners.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\DockMonitorBanners.aspx" />
+  <event action="Analyze" type="Success" name="DockMonitorBanners.aspx" path="C:\Projects\diversifiedlogistics\Admin\DockMonitorBanners.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\DockMonitors.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\DockMonitors.aspx" />
+  <event action="Analyze" type="Success" name="DockMonitors.aspx" path="C:\Projects\diversifiedlogistics\Admin\DockMonitors.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\editCerts.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\editCerts.aspx" />
+  <event action="Analyze" type="Success" name="editCerts.aspx" path="C:\Projects\diversifiedlogistics\Admin\editCerts.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\eMailPictures.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\eMailPictures.aspx" />
+  <event action="Analyze" type="Success" name="eMailPictures.aspx" path="C:\Projects\diversifiedlogistics\Admin\eMailPictures.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\EmployeeManager.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\EmployeeManager.aspx" />
+  <event action="Analyze" type="Success" name="EmployeeManager.aspx" path="C:\Projects\diversifiedlogistics\Admin\EmployeeManager.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\Employees.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\Employees.aspx" />
+  <event action="Analyze" type="Success" name="Employees.aspx" path="C:\Projects\diversifiedlogistics\Admin\Employees.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplicationCompanies.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplicationCompanies.aspx" />
+  <event action="Analyze" type="Success" name="EmploymentApplicationCompanies.aspx" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplicationCompanies.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplicationForm.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplicationForm.aspx" />
+  <event action="Analyze" type="Success" name="EmploymentApplicationForm.aspx" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplicationForm.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplications.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplications.aspx" />
+  <event action="Analyze" type="Success" name="EmploymentApplications.aspx" path="C:\Projects\diversifiedlogistics\Admin\EmploymentApplications.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentManager.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\EmploymentManager.aspx" />
+  <event action="Analyze" type="Success" name="EmploymentManager.aspx" path="C:\Projects\diversifiedlogistics\Admin\EmploymentManager.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\FixDates.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\FixDates.aspx" />
+  <event action="Analyze" type="Success" name="FixDates.aspx" path="C:\Projects\diversifiedlogistics\Admin\FixDates.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\JobDescriptionList.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\JobDescriptionList.aspx" />
+  <event action="Analyze" type="Success" name="JobDescriptionList.aspx" path="C:\Projects\diversifiedlogistics\Admin\JobDescriptionList.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\JobTitleList.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\JobTitleList.aspx" />
+  <event action="Analyze" type="Success" name="JobTitleList.aspx" path="C:\Projects\diversifiedlogistics\Admin\JobTitleList.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\LoadDescriptionList.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\LoadDescriptionList.aspx" />
+  <event action="Analyze" type="Success" name="LoadDescriptionList.aspx" path="C:\Projects\diversifiedlogistics\Admin\LoadDescriptionList.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\LoadEditor.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\LoadEditor.aspx" />
+  <event action="Analyze" type="Success" name="LoadEditor.aspx" path="C:\Projects\diversifiedlogistics\Admin\LoadEditor.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\LoadEditorDataEntry.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\LoadEditorDataEntry.aspx" />
+  <event action="Analyze" type="Success" name="LoadEditorDataEntry.aspx" path="C:\Projects\diversifiedlogistics\Admin\LoadEditorDataEntry.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\LocaEditor.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\LocaEditor.aspx" />
+  <event action="Analyze" type="Success" name="LocaEditor.aspx" path="C:\Projects\diversifiedlogistics\Admin\LocaEditor.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ParentCompanyList.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ParentCompanyList.aspx" />
+  <event action="Analyze" type="Success" name="ParentCompanyList.aspx" path="C:\Projects\diversifiedlogistics\Admin\ParentCompanyList.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\PayrollReportAdmin.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\PayrollReportAdmin.aspx" />
+  <event action="Analyze" type="Success" name="PayrollReportAdmin.aspx" path="C:\Projects\diversifiedlogistics\Admin\PayrollReportAdmin.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\PayrollSummary.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\PayrollSummary.aspx" />
+  <event action="Analyze" type="Success" name="PayrollSummary.aspx" path="C:\Projects\diversifiedlogistics\Admin\PayrollSummary.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\RequestTravelers.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\RequestTravelers.aspx" />
+  <event action="Analyze" type="Success" name="RequestTravelers.aspx" path="C:\Projects\diversifiedlogistics\Admin\RequestTravelers.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoadImporter.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoadImporter.aspx" />
+  <event action="Analyze" type="Success" name="ScheduledLoadImporter.aspx" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoadImporter.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoadImporterSetup.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoadImporterSetup.aspx" />
+  <event action="Analyze" type="Success" name="ScheduledLoadImporterSetup.aspx" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoadImporterSetup.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoads.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoads.aspx" />
+  <event action="Analyze" type="Success" name="ScheduledLoads.aspx" path="C:\Projects\diversifiedlogistics\Admin\ScheduledLoads.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\selectCarrier.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\selectCarrier.aspx" />
+  <event action="Analyze" type="Success" name="selectCarrier.aspx" path="C:\Projects\diversifiedlogistics\Admin\selectCarrier.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\selectUnloaders.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\selectUnloaders.aspx" />
+  <event action="Analyze" type="Success" name="selectUnloaders.aspx" path="C:\Projects\diversifiedlogistics\Admin\selectUnloaders.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\seuFTPImportConfig.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\seuFTPImportConfig.aspx" />
+  <event action="Analyze" type="Success" name="seuFTPImportConfig.aspx" path="C:\Projects\diversifiedlogistics\Admin\seuFTPImportConfig.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\showWO.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\showWO.aspx" />
+  <event action="Analyze" type="Success" name="showWO.aspx" path="C:\Projects\diversifiedlogistics\Admin\showWO.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\superSpecialHoliday.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\superSpecialHoliday.aspx" />
+  <event action="Analyze" type="Success" name="superSpecialHoliday.aspx" path="C:\Projects\diversifiedlogistics\Admin\superSpecialHoliday.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\svcsRendered.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\svcsRendered.aspx" />
+  <event action="Analyze" type="Success" name="svcsRendered.aspx" path="C:\Projects\diversifiedlogistics\Admin\svcsRendered.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\TAD.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\TAD.aspx" />
+  <event action="Analyze" type="Success" name="TAD.aspx" path="C:\Projects\diversifiedlogistics\Admin\TAD.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\TimeCards.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\TimeCards.aspx" />
+  <event action="Analyze" type="Success" name="TimeCards.aspx" path="C:\Projects\diversifiedlogistics\Admin\TimeCards.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\Travelers.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\Travelers.aspx" />
+  <event action="Analyze" type="Success" name="Travelers.aspx" path="C:\Projects\diversifiedlogistics\Admin\Travelers.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\TravelPayCheck.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\TravelPayCheck.aspx" />
+  <event action="Analyze" type="Success" name="TravelPayCheck.aspx" path="C:\Projects\diversifiedlogistics\Admin\TravelPayCheck.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\UserAdmin.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\UserAdmin.aspx" />
+  <event action="Analyze" type="Success" name="UserAdmin.aspx" path="C:\Projects\diversifiedlogistics\Admin\UserAdmin.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Admin\ViewAudit.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Admin\ViewAudit.aspx" />
+  <event action="Analyze" type="Success" name="ViewAudit.aspx" path="C:\Projects\diversifiedlogistics\Admin\ViewAudit.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Projects\diversifiedlogistics\Admin\Web.config" />
+  <event action="Analyze" type="Error" name="Binary References" path="C:\Projects\diversifiedlogistics\bin\">System.BadImageFormatException: Could not load file or assembly 'ABCpdfCE7.dll' or one of its dependencies. The module was expected to contain an assembly manifest.
+File name: 'ABCpdfCE7.dll' ---&gt; System.BadImageFormatException: Could not load file or assembly 'ABCpdfCE7.dll' or one of its dependencies. The module was expected to contain an assembly manifest.
+File name: 'ABCpdfCE7.dll'
+
+
+   at System.Reflection.AssemblyName.nGetFileInformation(String s)
+   at System.Reflection.AssemblyName.GetAssemblyName(String assemblyFile)
+   at Telerik.Reporting.Vs.Common.BinaryFolder..ctor(String filePath)
+   at Telerik.Reporting.UpgradeWizard.Engine.BinaryReferencesItem.AnalyzeInternal()
+   at Telerik.Reporting.UpgradeWizard.Engine.UpgradeItem.Analyze()
+
+</event>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AdditionalCost.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AdditionalCost.aspx" />
+  <event action="Analyze" type="Success" name="AdditionalCost.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\AdditionalCost.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AverageCost.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AverageCost.aspx" />
+  <event action="Analyze" type="Success" name="AverageCost.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\AverageCost.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AvgPalletsPieces.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AvgPalletsPieces.aspx" />
+  <event action="Analyze" type="Success" name="AvgPalletsPieces.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\AvgPalletsPieces.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AvgUnloadTimePerVendor.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\AvgUnloadTimePerVendor.aspx" />
+  <event action="Analyze" type="Success" name="AvgUnloadTimePerVendor.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\AvgUnloadTimePerVendor.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\BadPallets.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\BadPallets.aspx" />
+  <event action="Analyze" type="Success" name="BadPallets.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\BadPallets.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\BusinessSummary.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\BusinessSummary.aspx" />
+  <event action="Analyze" type="Success" name="BusinessSummary.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\BusinessSummary.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\ClientGridTips.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\ClientGridTips.aspx" />
+  <event action="Analyze" type="Success" name="ClientGridTips.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\ClientGridTips.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\DailyWeekly.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\DailyWeekly.aspx" />
+  <event action="Analyze" type="Success" name="DailyWeekly.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\DailyWeekly.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\Dashboard.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\Dashboard.aspx" />
+  <event action="Analyze" type="Success" name="Dashboard.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\Dashboard.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\Default.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\Default.aspx" />
+  <event action="Analyze" type="Success" name="Default.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\Default.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\DuplicateReceipts.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\DuplicateReceipts.aspx" />
+  <event action="Analyze" type="Success" name="DuplicateReceipts.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\DuplicateReceipts.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\EditClientProfile.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\EditClientProfile.aspx" />
+  <event action="Analyze" type="Success" name="EditClientProfile.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\EditClientProfile.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\FreightIssuePictures.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\FreightIssuePictures.aspx" />
+  <event action="Analyze" type="Success" name="FreightIssuePictures.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\FreightIssuePictures.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadImagesToPDF.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadImagesToPDF.aspx" />
+  <event action="Analyze" type="Success" name="LoadImagesToPDF.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadImagesToPDF.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsDetails.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsDetails.aspx" />
+  <event action="Analyze" type="Success" name="LoadsDetails.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsDetails.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsOverTwo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsOverTwo.aspx" />
+  <event action="Analyze" type="Success" name="LoadsOverTwo.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsOverTwo.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsSummary.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsSummary.aspx" />
+  <event action="Analyze" type="Success" name="LoadsSummary.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\LoadsSummary.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\OntimeDeliver.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\OntimeDeliver.aspx" />
+  <event action="Analyze" type="Success" name="OntimeDeliver.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\OntimeDeliver.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\PalletsPiecesManHour.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\PalletsPiecesManHour.aspx" />
+  <event action="Analyze" type="Success" name="PalletsPiecesManHour.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\PalletsPiecesManHour.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\RestackPallets.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\RestackPallets.aspx" />
+  <event action="Analyze" type="Success" name="RestackPallets.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\RestackPallets.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\seuDuplicateReceipts.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\seuDuplicateReceipts.aspx" />
+  <event action="Analyze" type="Success" name="seuDuplicateReceipts.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\seuDuplicateReceipts.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\seuFreightIssues.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\seuFreightIssues.aspx" />
+  <event action="Analyze" type="Success" name="seuFreightIssues.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\seuFreightIssues.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\UnloadTimePerLoad.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\ClientSvcs\UnloadTimePerLoad.aspx" />
+  <event action="Analyze" type="Success" name="UnloadTimePerLoad.aspx" path="C:\Projects\diversifiedlogistics\ClientSvcs\UnloadTimePerLoad.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Projects\diversifiedlogistics\ClientSvcs\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Default.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Default.aspx" />
+  <event action="Analyze" type="Success" name="Default.aspx" path="C:\Projects\diversifiedlogistics\Default.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Employees\editProfile.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Employees\editProfile.aspx" />
+  <event action="Analyze" type="Success" name="editProfile.aspx" path="C:\Projects\diversifiedlogistics\Employees\editProfile.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Employees\MyWork.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Employees\MyWork.aspx" />
+  <event action="Analyze" type="Success" name="MyWork.aspx" path="C:\Projects\diversifiedlogistics\Employees\MyWork.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Projects\diversifiedlogistics\Employees\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\EmploymentApplication.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\EmploymentApplication.aspx" />
+  <event action="Analyze" type="Success" name="EmploymentApplication.aspx" path="C:\Projects\diversifiedlogistics\EmploymentApplication.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\EmploymentApplicationSAVED.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\EmploymentApplicationSAVED.aspx" />
+  <event action="Analyze" type="Success" name="EmploymentApplicationSAVED.aspx" path="C:\Projects\diversifiedlogistics\EmploymentApplicationSAVED.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\homepg.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\homepg.aspx" />
+  <event action="Analyze" type="Success" name="homepg.aspx" path="C:\Projects\diversifiedlogistics\homepg.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\logoff.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\logoff.aspx" />
+  <event action="Analyze" type="Success" name="logoff.aspx" path="C:\Projects\diversifiedlogistics\logoff.aspx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Projects\diversifiedlogistics\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Projects\diversifiedlogistics\packages.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Reports\DockActivity.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Reports\DockActivity.aspx" />
+  <event action="Analyze" type="Warning" name="DockActivity.aspx" path="C:\Projects\diversifiedlogistics\Reports\DockActivity.aspx">The file is read-only: 'C:\Projects\diversifiedlogistics\Reports\DockActivity.aspx'!</event>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Reports\DockMonitor_DockActivity.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Reports\DockMonitor_DockActivity.aspx" />
+  <event action="Analyze" type="Warning" name="DockMonitor_DockActivity.aspx" path="C:\Projects\diversifiedlogistics\Reports\DockMonitor_DockActivity.aspx">The file is read-only: 'C:\Projects\diversifiedlogistics\Reports\DockMonitor_DockActivity.aspx'!</event>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Reports\EmployeeLoadsHoursVsBusinessSummary.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Reports\EmployeeLoadsHoursVsBusinessSummary.aspx" />
+  <event action="Analyze" type="Warning" name="EmployeeLoadsHoursVsBusinessSummary.aspx" path="C:\Projects\diversifiedlogistics\Reports\EmployeeLoadsHoursVsBusinessSummary.aspx">The file is read-only: 'C:\Projects\diversifiedlogistics\Reports\EmployeeLoadsHoursVsBusinessSummary.aspx'!</event>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Reports\FreightIssues.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Reports\FreightIssues.aspx" />
+  <event action="Analyze" type="Warning" name="FreightIssues.aspx" path="C:\Projects\diversifiedlogistics\Reports\FreightIssues.aspx">The file is read-only: 'C:\Projects\diversifiedlogistics\Reports\FreightIssues.aspx'!</event>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Reports\pubDockActivity.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Reports\pubDockActivity.aspx" />
+  <event action="Analyze" type="Warning" name="pubDockActivity.aspx" path="C:\Projects\diversifiedlogistics\Reports\pubDockActivity.aspx">The file is read-only: 'C:\Projects\diversifiedlogistics\Reports\pubDockActivity.aspx'!</event>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Reports\Reports.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Reports\Reports.aspx" />
+  <event action="Analyze" type="Success" name="Reports.aspx" path="C:\Projects\diversifiedlogistics\Reports\Reports.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Projects\diversifiedlogistics\Reports\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\seuLoader.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\seuLoader.aspx" />
+  <event action="Analyze" type="Success" name="seuLoader.aspx" path="C:\Projects\diversifiedlogistics\seuLoader.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\signin.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\signin.aspx" />
+  <event action="Analyze" type="Success" name="signin.aspx" path="C:\Projects\diversifiedlogistics\signin.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\UnauthorizedNoMaster.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\UnauthorizedNoMaster.aspx" />
+  <event action="Analyze" type="Success" name="UnauthorizedNoMaster.aspx" path="C:\Projects\diversifiedlogistics\UnauthorizedNoMaster.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\Upload\Async\Imageuploader\LoadImages.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\Upload\Async\Imageuploader\LoadImages.aspx" />
+  <event action="Analyze" type="Success" name="LoadImages.aspx" path="C:\Projects\diversifiedlogistics\Upload\Async\Imageuploader\LoadImages.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Projects\diversifiedlogistics\UserControls\ChangeEmployment.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Projects\diversifiedlogistics\UserControls\ChangeEmployment.ascx" />
+  <event action="Analyze" type="Success" name="ChangeEmployment.ascx" path="C:\Projects\diversifiedlogistics\UserControls\ChangeEmployment.ascx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="C:\Projects\diversifiedlogistics\web.config" />
+  <event action="Analyze" type="Success" name="DiversifiedLogistics" path="C:\Projects\diversifiedlogistics\DiversifiedLogistics.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\SEUreports\SEUreports.vbproj" />
+  <event action="Analyze" type="Warning" name="AdditionalCosts.resx" path="C:\Projects\SEUreports\AdditionalCosts.resx">The file is read-only: 'C:\Projects\SEUreports\AdditionalCosts.resx'!</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Projects\SEUreports\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Projects\SEUreports\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Projects\SEUreports\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Projects\SEUreports\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Projects\SEUreports\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Projects\SEUreports\app.config" />
+  <event action="Analyze" type="Warning" name="app.config" path="C:\Projects\SEUreports\app.config">The file is read-only: 'C:\Projects\SEUreports\app.config'!</event>
+  <event action="Analyze" type="Warning" name="AuditTimeCards.resx" path="C:\Projects\SEUreports\AuditTimeCards.resx">The file is read-only: 'C:\Projects\SEUreports\AuditTimeCards.resx'!</event>
+  <event action="Analyze" type="Success" name="AverageCost.resx" path="C:\Projects\SEUreports\AverageCost.resx" />
+  <event action="Analyze" type="Success" name="BadPalletReport.resx" path="C:\Projects\SEUreports\BadPalletReport.resx" />
+  <event action="Analyze" type="Success" name="BusinessSummary.resx" path="C:\Projects\SEUreports\BusinessSummary.resx" />
+  <event action="Analyze" type="Warning" name="BusinessSummaryCashBreakdown.resx" path="C:\Projects\SEUreports\BusinessSummaryCashBreakdown.resx">The file is read-only: 'C:\Projects\SEUreports\BusinessSummaryCashBreakdown.resx'!</event>
+  <event action="Analyze" type="Warning" name="BusinessSummaryNet.resx" path="C:\Projects\SEUreports\BusinessSummaryNet.resx">The file is read-only: 'C:\Projects\SEUreports\BusinessSummaryNet.resx'!</event>
+  <event action="Analyze" type="Warning" name="DailyWeeklyReport.resx" path="C:\Projects\SEUreports\DailyWeeklyReport.resx">The file is read-only: 'C:\Projects\SEUreports\DailyWeeklyReport.resx'!</event>
+  <event action="Analyze" type="Warning" name="ForkliftCerts.resx" path="C:\Projects\SEUreports\ForkliftCerts.resx">The file is read-only: 'C:\Projects\SEUreports\ForkliftCerts.resx'!</event>
+  <event action="Analyze" type="Warning" name="ImportNoShows.resx" path="C:\Projects\SEUreports\ImportNoShows.resx">The file is read-only: 'C:\Projects\SEUreports\ImportNoShows.resx'!</event>
+  <event action="Analyze" type="Warning" name="LoadsDetailed.resx" path="C:\Projects\SEUreports\LoadsDetailed.resx">The file is read-only: 'C:\Projects\SEUreports\LoadsDetailed.resx'!</event>
+  <event action="Analyze" type="Warning" name="LoadsLessThanTenMin.resx" path="C:\Projects\SEUreports\LoadsLessThanTenMin.resx">The file is read-only: 'C:\Projects\SEUreports\LoadsLessThanTenMin.resx'!</event>
+  <event action="Analyze" type="Warning" name="LoadsOverTwoHours.resx" path="C:\Projects\SEUreports\LoadsOverTwoHours.resx">The file is read-only: 'C:\Projects\SEUreports\LoadsOverTwoHours.resx'!</event>
+  <event action="Analyze" type="Success" name="LoadsOverTwoHoursLate.resx" path="C:\Projects\SEUreports\LoadsOverTwoHoursLate.resx" />
+  <event action="Analyze" type="Warning" name="Resources.resx" path="C:\Projects\SEUreports\My Project\Resources.resx">The file is read-only: 'C:\Projects\SEUreports\My Project\Resources.resx'!</event>
+  <event action="Analyze" type="Success" name="OnTimeDelivery.resx" path="C:\Projects\SEUreports\OnTimeDelivery.resx" />
+  <event action="Analyze" type="Warning" name="PalletsPiecesGraph.resx" path="C:\Projects\SEUreports\PalletsPiecesGraph.resx">The file is read-only: 'C:\Projects\SEUreports\PalletsPiecesGraph.resx'!</event>
+  <event action="Analyze" type="Warning" name="POsearch.resx" path="C:\Projects\SEUreports\POsearch.resx">The file is read-only: 'C:\Projects\SEUreports\POsearch.resx'!</event>
+  <event action="Analyze" type="Warning" name="RestackReport.resx" path="C:\Projects\SEUreports\RestackReport.resx">The file is read-only: 'C:\Projects\SEUreports\RestackReport.resx'!</event>
+  <event action="Analyze" type="Warning" name="TravelTime.resx" path="C:\Projects\SEUreports\TravelTime.resx">The file is read-only: 'C:\Projects\SEUreports\TravelTime.resx'!</event>
+  <event action="Analyze" type="Warning" name="VendorReport.resx" path="C:\Projects\SEUreports\VendorReport.resx">The file is read-only: 'C:\Projects\SEUreports\VendorReport.resx'!</event>
+  <event action="Analyze" type="Warning" name="VendorSummary.resx" path="C:\Projects\SEUreports\VendorSummary.resx">The file is read-only: 'C:\Projects\SEUreports\VendorSummary.resx'!</event>
+  <event action="Analyze" type="Warning" name="SEUreports" path="C:\Projects\SEUreports\SEUreports.vbproj">The file is read-only: 'C:\Projects\SEUreports\SEUreports.vbproj'!</event>
+  <event action="Analyze" type="Success" name="DiversifiedLogistics" path="C:\Projects\diversifiedlogistics\DiversifiedLogistics.sln" />
+</log>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items Text="">
+  <Item Text="Home" Url="~/default.aspx" />
+  <Item Text="My Menu" Url="">
+    <Item Text="My Work" Url="~/Employees/MyWork.aspx" />
+    <Item Text="My Profile" Url="~/Employees/editProfile.aspx" />
+  </Item>
+  <Item Text="Load Tools" Url="">
+        <Item Text="Load Editor" Url="~/Admin/LoadEditor.aspx" />
+        <Item Text="Backhaul/Inbound Batch Entry" Url="~/Admin/BackhaulInbound.aspx" />
+    <Item Text="Import Scheduled Loads Universal Excel" Url="~/Admin/ScheduledLoadImporter.aspx" />
+    <Item Text="Clear No Show Scheduled Loads" Url="~/Admin/ClearNoShowScheduledLoads.aspx" />
+        <Item Text="CBI Backhaul Importer" Url="~/Admin/backhauladjustments.aspx" />
+        <Item Text="Load Editor Data Entry" Url="~/Admin/LoadEditorDataEntry.aspx" />
+  </Item>
+    <Item Text="Employee Tools" Url="">
+        <Item Text="Employee Manager" Url="~/Admin/EmployeeManager.aspx" />
+        <Item Text="Time Cards" Url="~/Admin/TimeCards.aspx" />
+        <Item Text="Supervisor / Traveler / Other Pay" Url="~/Admin/AddEditAdditionalCompensation.aspx" />
+      <Item Text="Services Rendered Log" Url="~/Admin/svcsRendered.aspx" />
+      <Item Text="Employment Application Manager" Url="~/Admin/EmploymentApplications.aspx" />
+    </Item>
+  <Item Text="Reports" Url="">
+    <Item Text="Current Dock Activity" Url="~/Reports/DockActivity.aspx" />
+    <Item Text="Unloader Business Summary" Url="~/Reports/EmployeeLoadsHoursVsBusinessSummary.aspx" />
+    <Item Text="Freight Issue Pictures" Url="~/ClientSvcs/FreightIssuePictures.aspx" />
+    <Item Text="Pay-Period Payroll Summary" Url="../admin/PayrollSummary.aspx" />
+    <Item Text="_______________________" url=""/>
+    <Item Text="Production Reports" url="">
+      <Item Text="Daily / Weekly Report" Url="~/ClientSvcs/DailyWeekly.aspx" />
+    </Item>
+    <Item Text="Vendor Reports" url="">
+      <Item Text="Vendor Report Detailed" Url="~/Reports/Reports.aspx?report=VendorReport" />
+      <Item Text="Vendor Summary" Url="~/Reports/Reports.aspx?report=VendorSummary" />
+    </Item>
+    <Item Text="Client Reports" url="">
+      <Item Text="Additional Costs" Url="~/Reports/Reports.aspx?report=AdditionalCosts" />
+      <Item Text="Average Cost" Url="~/Reports/Reports.aspx?report=AverageCost" />
+      <Item Text="Bad Pallet Report" Url="~/Reports/Reports.aspx?report=BadPalletReport" />
+      <Item Text="Restack Pallet Report" Url="~/Reports/Reports.aspx?report=RestackPallets" />
+      <Item Text="Loads Detailed" Url="~/Reports/Reports.aspx?report=LoadsDetailed" />
+      <Item Text="PO Search" Url="~/Reports/Reports.aspx?report=POsearch" />
+      <Item Text="Import No Show Loads" Url="~/Reports/Reports.aspx?report=ImportNoShows" />
+      <Item Text="Pallets and Pieces Graph" Url="~/Reports/Reports.aspx?report=PalletsPiecesGraph" />
+    </Item>
+    <Item Text="Time Tracking Reports" Url="">
+      <Item Text="Loads Over 2 Hours" Url="~/Reports/Reports.aspx?report=LoadsOverTwoHours" />
+      <Item Text="Loads Duration Under 10 Mins" Url="~/Reports/Reports.aspx?report=LoadsLessThanTenMin" />
+      <Item Text="Travel Time" Url="~/Reports/Reports.aspx?report=TravelTime" />
+      <Item Text="On Time Delivery" Url="~/Reports/Reports.aspx?report=OnTimeDelivery" />
+      <Item Text="Loads Over 2 hours Late" Url="~/Reports/Reports.aspx?report=LoadsOverTwoHoursLate" />
+    </Item>
+    <Item Text="Business Reports" Url="">
+      <Item Text="Location Business Summary Gross" Url="~/Reports/Reports.aspx?report=BusinessSummary" />
+      <Item Text="Location Business Summary Net" Url="~/Reports/Reports.aspx?report=BusinessSummaryNet" />
+      <Item Text="Location Business Summary for DEPOSIT" Url="~/Reports/Reports.aspx?report=BusinessSummaryCashBreakdown" />
+     </Item>
+    <Item Text="Employee Reports" url="">
+      <Item Text="Forklift Certifications" Url="~/Reports/Reports.aspx?report=ForkliftCerts" />
+    </Item>
+    <Item Text="SSRS Report Server (new window)" Url="http://reports.div-log.com/reports" />
+  </Item>
+    <Item Text="Teaching Series" Url="">
+      <Item Text="Forklift Safety" Url="~/video/forklift/forklift.html" />
+      <Item Text="Product Damages" Url="~/video/Damages/Damages.html" />
+      <Item Text="Pallets Safety" Url="~/video/Pallets/Pallets.html" />
+      <Item Text="Site Safety" Url="~/video/safety/safety.html" />
+      <Item Text="Future Use" Url="" />
+    </Item>    
+    <Item Text="Help/Email" Url="">
+      <Item Text="Support Website" Url="http://Support.Div-Log.com" />
+      <Item Text="Support Login" Url="http://Support.Div-Log.com/Login.aspx" />
+      <Item Text="Web Email(new window)" Url="https://mail.div-log.com/owa" />
+    </Item>
+</Items>

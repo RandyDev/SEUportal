@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items Text="">
+    <Item Text="Home" Url="~/default.aspx" />
+    <Item Text="Load Tools" Url="">
+        <Item Text="Load Editor" Url="~/Admin/LoadEditor.aspx" />
+        <Item Text="Backhaul/Inbound Batch Entry" Url="~/Admin/BackhaulInbound.aspx" />
+    </Item>
+    <Item Text="Employee Tools" Url="">
+        <Item Text="Employees" Url="~/Admin/Employees.aspx" />
+        <Item Text="Time Cards" Url="~/Admin/TimeCards.aspx" />
+        <Item Text="My Profile" Url="~/Employees/editProfile.aspx" />
+        <Item Text="My Work" Url="~/Employees/MyWork.aspx" />
+    </Item>
+    <Item Text="Reports" Url="">
+        <Item Text="Current Dock Activity" Url="~/Reports/DockActivity.aspx" />
+        <Item Text="Unloader Business Summary" Url="~/Reports/EmployeeLoadsHoursVsBusinessSummary.aspx" />
+         <Item Text="Freight Issue Pictures" Url="~/ClientSvcs/FreightIssuePictures.aspx" />
+       <Item Text="Load Reports" Url="">
+            <Item Text="Bad Pallet Report" Url="~/Reports/Reports.aspx?report=BadPalletReport" />
+            <Item Text="Restack Pallet Report" Url="~/Reports/Reports.aspx?report=RestackPallets" />
+            <Item Text="PO Search" Url="~/Reports/Reports.aspx?report=POsearch" />
+            <Item Text="Loads List Detailed" Url="~/Reports/Reports.aspx?report=LoadsDetailed" />
+       </Item>
+        <Item Text="Business Reports" Url="">
+            <Item Text="Location Business Summary Gross" Url="~/Reports/Reports.aspx?report=BusinessSummary" />
+            <Item Text="xLocation Business Summary Net" Url="" />
+        </Item>
+        <Item Text="SSRS Report Server (new window)" Url="http://reports.div-log.com/reports" />
+    </Item>
+    <Item Text="Teaching Series" Url="">
+        <Item Text="Teaching Series" Url="">
+        <Item Text="Forklift Safety" Url="~/video/forklift/forklift.html" />
+	<Item Text="Product Damages" Url="~/video/Damages/Damages.html" />
+        <Item Text="Pallets Safety" Url="~/video/Pallets/Pallets.html" />
+        <Item Text="Site Safety" Url="~/video/safety/safety.html" />        
+	<Item Text="Future Use" Url="" />
+    </Item>
+    <Item Text="Help/Email" Url="">
+        <Item Text="Support Website" Url="http://Support.Div-Log.com" />
+        <Item Text="Support Login" Url="http://Support.Div-Log.com/Login.aspx" />
+        <Item Text="Web Email(new window)" Url="https://mail.div-log.com/owa" />
+    </Item>
+</Items>

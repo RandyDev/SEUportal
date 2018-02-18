@@ -1,0 +1,338 @@
+﻿body {
+    background-color: #F6F6F6;
+    font-family: Arial, sans-serif;
+}
+#divForm{
+    border:1px solid black;
+    width:525px;
+    margin:auto;
+}
+.header{
+    text-align:center;
+    font-weight:bold;
+    margin:auto;
+}
+.header2 {
+    font-size:.8em;
+}
+#frmTables td {
+    font-weight:bold;
+    font-size:11px;
+}
+.frmTables td red{color:Red;}
+
+a{text-decoration:none; color:Black;}
+.lilBlueButton{
+    color:Blue;
+    font-weight:normal;
+    font-size: 11px;
+    padding-left:5px;
+}
+.LoginHeader{   
+    background-image:url(../images/bg_ie.png);
+    background-position:0 -510px; /* add 20px to #header.background-position */
+    color:White; 
+    padding:7px; 
+    font-size:0.9em;
+    font-weight:bold;
+}
+#instructions{
+/*    text-align:center; */
+}
+.Item{
+    background-color: Transparent;
+}
+.altItem{
+    background-color:#dddddd;
+}
+.hover, .hover a{
+    cursor:pointer;
+    background-color: #bbbbbb;
+    color:Blue;
+}
+ .login{
+    font-size:12px;
+    text-align:right;
+    padding-right:8px;
+    vertical-align:bottom;
+ }
+ backbg{
+	background-color: #000000;	}
+
+frntbg{
+        background-color: red;
+	}
+
+.ooophf{
+	font-size:25px;
+	font-weight:bold;
+	}
+
+.ooophftxt{
+	font-size:12px;
+	}
+
+.inactive{
+	color:#999999;
+	}
+
+.specialized{
+        font-family: verdana;
+	font-size:15px;
+	font-weight:bold;
+	color:#999999;
+	}
+
+.sititle{
+	font-size:20px;
+	font-weight:bold;
+	}
+
+.cattitle{
+	font-size:15px;
+	font-weight:bold;
+	}
+
+.item {
+    text-align:left;
+    padding: 0 10px;
+	font-size:12px;
+	font-weight:normal;
+	}
+
+.let {
+color:black !important;
+
+	font-size:12px;
+	font-weight:normal;
+	text-align:center;
+
+	}
+
+td .radio{
+	text-align:center;
+	vertical-align:middle;
+	}
+
+td .let{
+	text-align:center;
+	vertical-align:bottom;
+    color: blue;
+    }
+
+.txtbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FFFFf7;
+
+}
+
+
+td .priceheading, td .price{
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:12px;
+	}
+
+td .priceheading{
+	text-align:left;
+	}
+
+td .price{
+	text-align:center;
+	}
+
+
+
+td .feature{
+	text-align:left;
+	vertical-align:middle;
+	font-weight:normal;
+	font-size:13px;
+	}
+
+td .valueamount, td .nvalueamount, td .yvalueamount{
+	text-align:center;
+	vertical-align:middle;
+	font-weight:normal;
+	font-size:13px;
+	}
+
+td .nvalueamount{
+	color:red;
+	}
+
+td .yvalueamount{
+	color:#003300;
+	}
+
+.freesetup{
+	background-color:#FFDC00;
+	text-align:center;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:10px;
+	color:red;
+	}
+
+.hlptitle{
+	text-align:left;
+        color: black;
+	font-size: 15px;
+	font-weight: bold;
+	}
+
+.hlptxt{
+	text-align:justify;
+	color: black;
+	font-size: 12px;
+	}
+
+.hlpclose{
+	font-size: 10px;
+	}
+
+tr.altcolor{
+	background-color:#FFFFCC;
+	}
+
+tr.defcolor{
+	background-color:#FFFFFF;
+	}
+.catHeader{	background-color:#cccccc;
+}
+
+.small{
+	color: black;
+	font-size: 10px;
+	}
+
+.black {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; line-height: 14px}
+.black-bold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000 ; font-weight: bold; line-height: 14px}
+.black-small { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333; font-weight: normal; line-height: 14px }
+.black-bold-small { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333; font-weight: bold; line-height: 14px }
+.black-plan { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold ; color: #000000; text-decoration: none}
+
+
+
+.maintext{
+	color: black;
+	font-size: 80%;
+	}
+
+A:visited {color: #000090; text-decoration: none;}
+A:link {color: #000090; text-decoration: none}
+A:hover {color: #000090; text-decoration: underline overline; cursor:pointer;}
+A:active {color: #000090; text-decoration: underline overline}
+
+.menu A:visited {color: #FFFFFF; text-decoration: none}
+.menu A:link {color: #FFFFFF; text-decoration: none}
+.menu A:hover {color: #FFFF00; text-decoration: underline overline; cursor:pointer;}
+.menu A:active {color: #FF0000; text-decoration: underline overline}
+
+
+.light{
+	background-color:#FFFFCC
+	}
+
+.dark{
+	background-color:#000092;	
+	}
+
+.date{
+	color: black;
+	font-size: 60%;
+	font-family: Verdana,sans-serif;
+	}
+.menu{
+	color: white;
+	font-size: 11px;
+	font-family: Verdana,sans-serif;
+	}
+
+.logout{
+    color:White;
+    font-family:Arial;
+    font-size:11px;
+}
+.white{
+	background-color:#FFFFFF;
+	}
+
+
+
+.bordertopleftright{
+	border-top: 1px ridge #000092;
+	border-left: 1px ridge #000092;
+	border-right: 1px ridge #000092;
+	}
+
+.borderleftright{
+	border-left: 1px ridge #000092;
+	border-right: 1px ridge #000092;
+	}
+
+.borderleft{
+	border-left: 1px ridge #000092;
+	}
+
+.borderright{
+	border-right: 1px ridge #000092;
+	}
+
+.borderbottom{
+	border-bottom: 1px ridge #000092;
+	}
+
+.borderbottomright{
+	border-bottom: 1px ridge #000092;
+	border-right: 1px ridge #000092;
+	}
+
+.borderbottomleft{
+	border-bottom: 1px ridge #000092;
+	border-left: 1px ridge #000092;
+	}
+
+.borderbottomleftright{
+	border-bottom: 1px ridge #000092;
+	border-left: 1px ridge #000092;
+	border-right: 1px ridge #000092;
+	}
+
+
+
+
+.mainbottom{
+	color: black;
+	font-size: 75%;
+	}
+
+.title{
+	color: black;
+	font-size: 115%;
+	}
+
+.lawyer{
+	color: black;
+	font-size: 55%;
+	}
+
+
+.required{
+	background: yellow;
+	font-weight: bold;
+	font-size: 90%;
+	}
+
+.lcDate{
+font-size: .7em;
+color:Green;
+
+}
+
+    .rlvHeader{font-size:12px; font-weight:bold; background-color:#cccccc;}
+    .smallTitle{font-size:11px;}
+.ttHeader{padding:0px 0px 0px 4px;font-size:18px;}
+.ttTitle{font-size:12px;font-weight:bold;}
+.ttBody{padding-left:20px;padding-right:5px;font-size:11px;}
